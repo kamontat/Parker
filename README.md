@@ -1,9 +1,24 @@
-# parkerapp
+# Parker
 
-parker app
+Parker app, Application that instantly match parking finder and parking leaver.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
+Application start with [Flutter](https://flutter.io/). 
 
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+## Pitching slide 
+
+- Google slide: https://docs.google.com/presentation/d/1gK_dIar7m1FguZeagVCOi8HioE2I1iS2hXjNyEK4bQI (Out of date)
+- Keynote: [slide](/slide/Parker-Sunday-Hackathon.key)
+
+## Screenshot
+
+
+Main screen: 
+![main-screen](/images/main-screen)
+
+Park screen: 
+![park-screen](/images/park-screen)
+
+Notification screen: 
+![noti-screen](/images/noti-screen)

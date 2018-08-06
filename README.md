@@ -15,10 +15,10 @@ Application start with [Flutter](https://flutter.io/).
 
 
 Main screen: 
-![main-screen](/images/main-screen)
+![main-screen](/images/main-screen.png)
 
 Park screen: 
-![park-screen](/images/park-screen)
+![park-screen](/images/park-screen.png)
 
 Notification screen: 
-![noti-screen](/images/noti-screen)
+![noti-screen](/images/noti-screen.png)
